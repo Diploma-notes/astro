@@ -31,3 +31,9 @@ main {
   color: #efd510;
   padding: 5px;
 }
+
+.div-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
